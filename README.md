@@ -1,4 +1,4 @@
-# strangers-things-2209-FTB-ET-WEB-AM
+# template for react-client-application 
 
 - npm i
 - npm run build
